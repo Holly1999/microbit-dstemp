@@ -27,12 +27,8 @@
         "microbit"
     ],
     "preferredEditor": "tsprj",
-    "authors": [
-        "Bill Siever <bsiever@gmail.com>"
-    ],
     "card": {
         "name": "DS Temp Sensors",
-        "imageUrl": "file:../dstemp/icon.png",
-        "feedbackUrl": "http://siever.info"
+        "imageUrl": "file:../dstemp/icon.png"        
     }
 }
